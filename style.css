@@ -70,12 +70,12 @@
 }
 
 .car{
-    background: url(/mfin2.png) no-repeat;
+    background: url(mfin2.png) no-repeat;
     background-size: 100% 100%;
 }
 
 .npc{
-    background: url(/mfin.png) no-repeat;
+    background: url(mfin.png) no-repeat;
     background-size: 100% 100%;
 } 
 
